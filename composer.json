@@ -1,0 +1,11 @@
+{
+    "name": "rkaiser0324/gravityforms",
+    "type": "wordpress-plugin",
+    "description": "Gravity Forms",
+    "config": {
+        "preferred-install": "source"
+    },
+    "require": {
+        "composer/installers": "1.*"
+    }
+}
