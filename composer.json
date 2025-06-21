@@ -1,14 +1,11 @@
 {
-    "name": "standingroomonly-group/gravityforms",
+    "name": "rkaiser0324/gravityforms",
     "type": "wordpress-plugin",
-    "license": "GPLv2",
     "description": "Gravity Forms",
-    "authors": [],
-    "keywords": [
-        "wordpress"
-    ],
-    "support": {},
+    "config": {
+        "preferred-install": "source"
+    },
     "require": {
-        "php": ">=7.0.0"
+        "composer/installers": "1.*"
     }
 }
